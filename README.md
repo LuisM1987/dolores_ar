@@ -15,9 +15,9 @@ Práctica de **Desarrollo Móvil Integral · UTNG** (Manual paso a paso con TDD 
 
 ```bash
 flutter pub get
-flutter test --reporter expanded     # pruebas automatizadas
-flutter run                          # teléfono real (cámara, GPS y brújula)
-flutter run -d chrome                # PC: usar el "Modo demo"
+flutter test --reporter expanded     
+flutter run                          
+flutter run -d               
 ```
 ## Capturas de las pruebas
 <img width="921" height="246" alt="image" src="https://github.com/user-attachments/assets/5bfe35b3-ee6f-402e-88d8-ecbfc63e4814" />
